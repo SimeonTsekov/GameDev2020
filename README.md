@@ -1,4 +1,4 @@
-# GameDev2020
+# Asteroids
 Game Development Introduction Project 2020
 This project is a modern take at the old arcade classic "Asteroids". Explore the cosmos and fight every asteroid or enemy you encounter!  
   
@@ -6,4 +6,4 @@ This project is a modern take at the old arcade classic "Asteroids". Explore the
 Simeon Tsekov  
 
 # For more information go to:  
-https://github.com/SimeonTsekov/GameDev2020/wiki/Development-Documentation
+https://github.com/SimeonTsekov/Asteroids/wiki/Development-Documentation
