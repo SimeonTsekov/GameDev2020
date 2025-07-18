@@ -1,5 +1,5 @@
-# GameDev20202
-Game Development Introduction Project 20202  
+# GameDev2020
+Game Development Introduction Project 2020
 This project is a modern take at the old arcade classic "Asteroids". Explore the cosmos and fight every asteroid or enemy you encounter!  
   
 # Developer: 
