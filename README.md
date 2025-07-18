@@ -6,4 +6,4 @@ This project is a modern take at the old arcade classic "Asteroids". Explore the
 Simeon Tsekov  
 
 # For more information go to:  
-https://github.com/SimeonTsekov/GameDev20202/wiki/Development-Documentation
+https://github.com/SimeonTsekov/GameDev2020/wiki/Development-Documentation
